@@ -20,4 +20,4 @@
 <code><img height="20" alt="java" title ="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
 ## Github status
-<a href="https://github.com/giorgiaci/github-readme-stats"><img width="47%" src="https://github-readme-stats.vercel.app/api?username=giorgiaci&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Giorgia's github stats" /></a>&ensp;&ensp;<a href="https://github.com/giorgiaci/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorgiaci&layout=compact&theme=buefy&hide_border=true" /></a> 
+<a href="https://github.com/giorgiaci/github-readme-stats"><img width="47%" src="https://github-readme-stats.vercel.app/api?username=giorgiaci&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Giorgia's github stats" /></a>&ensp;&ensp;<a href="https://github.com/giorgiaci/github-readme-stats"><img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorgiaci&layout=compact&theme=buefy&hide_border=true" /></a> 
