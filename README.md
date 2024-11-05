@@ -8,6 +8,7 @@
 - :books: Currently learning **React.js**
 - 💬 Ask me about anything related to front-end technologies, we can exchange knowledge and opinions!
 - 📫 How to reach me: giorgiaciulla.pa@gmail.com
+- :globe_with_meridians: Check my <a href="https://giorgiaci.github.io">github.io</a> 
 
 ## Skills
 <code><img height="20" alt="angular" title ="angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
